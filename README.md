@@ -8,7 +8,7 @@
 
 3. World Map Plot: using the folium library to plot user locations on a world map
 
-4. Classification: performing data classification using the Naive Bayes algorithm and displaying their accuracy and confusion matrix.
+4. Classification: performing data classification using the Naive Bayes algorithm and displaying their accuracy and confusion matrix
 
 5 Clustering: using the PySpark library to perform KMeans clustering on the data and visualize the Within Set Sum of Squared Errors (WSSSE) for different values of k
 
