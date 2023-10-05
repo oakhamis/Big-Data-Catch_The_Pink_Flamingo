@@ -10,6 +10,6 @@
 
 4. Classification: performing data classification using the Naive Bayes algorithm and displaying their accuracy and confusion matrix
 
-5 Clustering: using the PySpark library to perform KMeans clustering on the data and visualize the Within Set Sum of Squared Errors (WSSSE) for different values of k
+5. Clustering: using the PySpark library to perform KMeans clustering on the data and visualize the Within Set Sum of Squared Errors (WSSSE) for different values of k
 
 6. Graph Analysis: analyzing the most active teams based on their total clicks.
