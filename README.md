@@ -2,7 +2,7 @@
 
 ## Case study on user engagement in relation to in-game interactions
 
-# Exploratory Data Analysis on Pink Flamingo Gaming Data
+## Exploratory Data Analysis on Pink Flamingo Gaming Data
 
 This repository houses the Exploratory Data Analysis (EDA) on Pink Flamingo's gaming data. We dive deep into understanding user behaviors, hit rates, platform usages, and more. The analysis pipeline is divided into multiple sections: data preprocessing, visualizations, geospatial plotting, classification, clustering, and graph analysis.
 
