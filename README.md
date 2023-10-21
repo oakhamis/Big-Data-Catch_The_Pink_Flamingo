@@ -57,6 +57,3 @@ Before running the script, ensure you have the following libraries installed:
 
 ## Contributing
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
